@@ -8,7 +8,7 @@
   <li>Project 2: Bangkok-Pattaya Transportation Management System (personal project | private repo)</li>
 </ul>
 
-🌱 Currently diving deeper with NextJS, Typescript, and Ionic
+🌱 Currently diving deeper with ROR, NextJS, Typescript, and Ionic
 <br><br>
 👯 Seeking software engineering, business development, and design management roles within the tech industry.
 <br><br>
