@@ -5,7 +5,8 @@
 🔭 While enjoying my postgraduate study, I'm also currently working on 2 amazing projects:
 <ul>
   <li>Project 1: PaiPai - An all-in-one app for itinerary planning, budgeting, and bill-splitting (co-founder of this future start-up | private repo)</li>
-  <li>Project 2: Bangkok-Pattaya Transportation Management System (personal project | private repo)</li>
+  <li>Project 2: Thesis Sandbox - Web applications containing articles and resources related with thesis and research paper writing. Composed by previous postgraduate students.</li>
+  <li>Project 3: Bangkok-Pattaya Transportation Management System (personal project | private repo)</li>
 </ul>
 
 🌱 Currently diving deeper with ROR, NextJS, Typescript, and Ionic
